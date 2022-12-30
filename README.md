@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ajoebert a python developer
+- 👋 Hi, I’m @ajoebert a python developer/entrepreneur
 - 👀 I’m interested in working on different intuitive and pathbreaking business ideas
 - 🌱 I’m currently learning front end technologies
 - 💞️ I’m looking to collaborate on ideas for business advancements through technology
-- 📫 How to reach me https://www.kalai.fun
+- 📫 How to reach me https://www.kalai.tech
 
 <!---
 ajoebert/ajoebert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
